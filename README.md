@@ -1,1 +1,0 @@
-# Pseudo's Seeing Stars
