@@ -1,4 +1,5 @@
-title: Pseudo's Seeing Starsremote_theme: pages-themes/architect@v0.2.0
+title: Pseudo's Seeing Stars
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 description: A Portfolio on how far I've come, how far I'll go, and what I will do when I get there!
