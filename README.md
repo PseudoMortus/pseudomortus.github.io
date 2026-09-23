@@ -1,1 +1,1 @@
-https://pseudomortus.github.com
+https://pseudomortus.github.io
